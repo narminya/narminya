@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @narminya
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Asp.Net core
+
 
 
 <!---

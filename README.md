@@ -15,7 +15,7 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narminya&show_icons=true&theme=transparent)](https://github.com/narminya/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narminya&show_icons=true&theme=blue_navy)](https://github.com/narminya/github-readme-stats)
 <!---
 
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narminya&theme=vue)

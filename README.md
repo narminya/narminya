@@ -4,7 +4,6 @@
 
 
 
-[![C#](https://img.shields.io/badge/C%23?style=for-the-badge&logo=c%23&logoColor=%23b25aff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)

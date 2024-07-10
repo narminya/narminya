@@ -1,6 +1,5 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narminya&show_icons=true&theme=radical)
 
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narminya&theme=vue)
 

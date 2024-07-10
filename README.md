@@ -14,8 +14,11 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narminya&theme=vue)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narminya&show_icons=true&theme=radical)](https://github.com/narminya/github-readme-stats)
 <!---
+
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narminya&theme=vue)
 narminya/narminya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
